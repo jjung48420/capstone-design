@@ -42,10 +42,10 @@
   
 ## Demo
 ### feature map과 Frequency Domain 분석 (+PSD curve)
-![Max Activation과 frequency domain](./out/psd_compare.png)
-![PSD 곡선](./out/psd_compare.png)
+![Max Activation과 frequency domain](./images/Weather_comparison.png)
+![PSD 곡선](./images/psd_compare.png)
 ### Noise 분석
-![Noise 분석](./out/psd_compare.png)
+![Noise 분석](./images/noise_comparison_analysis.png)
 
 ## Conclusion and Future Work
 ### Conclusion
